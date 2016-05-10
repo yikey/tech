@@ -78,6 +78,6 @@
 [管中窥豹——MySQL(InnoDB)死锁分析之道.pptx](http://vdisk.weibo.com/s/dBzv2si4KuNS)  
 <a name="REDIS"></a>
 ## REDIS  
-[redis 分布式锁实现](http://www.redis.io/topics/distlock) 
+[redis 分布式锁实现](http://www.redis.io/topics/distlock)  
 [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea) 
 
