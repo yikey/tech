@@ -69,3 +69,10 @@
 [Bara：基于 Nginx 和 Docker 的单机灰度测试环境原型](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fliubin%2Fbara&aid=4722&nid=99)  
 [ngx_lua_reqstatus：实时统计 Nginx 状态的 Lua 扩展](https://github.com/zheng-ji/ngx_lua_reqstatus)  
 [使用 Nginx + Lua (OpenResty) 开发高性能 Web 应用](http://jinnianshilongnian.iteye.com/blog/2280928)  
+<a name="MYSQL"></a>
+## MYSQL  
+[MySQL 加锁处理分析（@何_登成）](http://hedengcheng.com/?p=771)  
+[老叶观点：MySQL开发规范之我见](http://imysql.com/2015/07/23/something-important-about-mysql-design-reference.shtml)  
+[单表60亿记录等大数据场景的MySQL优化和运维之道 | 高可用架构](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209403337&idx=1&sn=f99429e24e8c591111a355e072f93e05)  
+[ MYSQL中间件CAT(支持读写分离、分库分表) ](https://github.com/MyCATApache/Mycat-Server)  
+
