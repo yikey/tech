@@ -75,4 +75,5 @@
 [老叶观点：MySQL开发规范之我见](http://imysql.com/2015/07/23/something-important-about-mysql-design-reference.shtml)  
 [单表60亿记录等大数据场景的MySQL优化和运维之道 | 高可用架构](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209403337&idx=1&sn=f99429e24e8c591111a355e072f93e05)  
 [ MYSQL中间件CAT(支持读写分离、分库分表) ](https://github.com/MyCATApache/Mycat-Server)  
+[管中窥豹——MySQL(InnoDB)死锁分析之道.pptx](http://vdisk.weibo.com/s/dBzv2si4KuNS)  
 
