@@ -13,7 +13,7 @@
 [JQUERY](#JQUERY)  
 [NGINX](#NGINX)  
 [MYSQL](#MYSQL)  
-[REDIS](#REDIS)  
+[REDIS](star/REDIS.md)  
 [IOS](#IOS)  
 [KAFKA](#KAFKA)  
 [LINUX](#LINUX)  
