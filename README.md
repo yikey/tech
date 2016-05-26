@@ -4,7 +4,7 @@
 
 
 ##索引  
-[JAVA](#JAVA)  
+[JAVA](star/JAVA.md)  
 [ANDROID](#ANDROID)  
 [ANGULAR](#ANGULAR)  
 [HTML5](#HTML5)  
