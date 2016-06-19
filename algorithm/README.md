@@ -4,3 +4,4 @@
 [simhash算法](simhash.md)  
 [一致性hash](okhash.md)    
 [布隆过滤器(Bloom_Filter)](Bloom_Filter.md)   
+[排序算法总结](sort.md)
