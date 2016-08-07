@@ -55,3 +55,7 @@ ssh://git@101.200.154.38/opt/gitStore/fangmaster.git
 
 ### git 手把手学习
 https://try.github.io/levels/1/challenges/1
+### github代码搜索技巧
+国内牛人：http://outofmemory.cn/github/
+国外牛人：https://github-ranking.com/
+技巧：http://blog.csdn.net/laokdidiao/article/details/51442835 
