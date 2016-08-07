@@ -52,3 +52,6 @@ ssh://git@101.200.154.38/opt/gitStore/ly.git
 
 克隆
 ssh://git@101.200.154.38/opt/gitStore/fangmaster.git
+
+### git 手把手学习
+https://try.github.io/levels/1/challenges/1
