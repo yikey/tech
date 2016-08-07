@@ -22,7 +22,7 @@ git:x:1001:1001:,,,:/home/git:/usr/bin/git-shell
 
 
 
-git clone git@192.168.1.117:opt/gitStore/fangmaster.git
+git clone git@192.168.1.117:opt/gitStore/ly.git
 
 
 git  in eclipse
@@ -46,12 +46,12 @@ sudo git init --bare ly.git
 关联一个远程仓库
 
 克隆
-git clone git@101.200.154.38:/opt/gitStore/ly.git
+git clone git@xx:/opt/gitStore/ly.git
 push到服务端地址
-ssh://git@101.200.154.38/opt/gitStore/ly.git
+ssh://git@xx/opt/gitStore/ly.git
 
 克隆
-ssh://git@101.200.154.38/opt/gitStore/fangmaster.git
+ssh://git@xx/opt/gitStore/ly.git
 
 ### git 手把手学习
 https://try.github.io/levels/1/challenges/1
