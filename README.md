@@ -69,6 +69,8 @@
 [Bara：基于 Nginx 和 Docker 的单机灰度测试环境原型](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fliubin%2Fbara&aid=4722&nid=99)  
 [ngx_lua_reqstatus：实时统计 Nginx 状态的 Lua 扩展](https://github.com/zheng-ji/ngx_lua_reqstatus)  
 [使用 Nginx + Lua (OpenResty) 开发高性能 Web 应用](http://jinnianshilongnian.iteye.com/blog/2280928)  
+[nginx location配置详细解释](http://outofmemory.cn/code-snippet/742/nginx-location-configuration-xiangxi-explain)  
+
 <a name="MYSQL"></a>
 ## MYSQL  
 [MySQL 加锁处理分析（@何_登成）](http://hedengcheng.com/?p=771)  
