@@ -70,6 +70,7 @@
 [ngx_lua_reqstatus：实时统计 Nginx 状态的 Lua 扩展](https://github.com/zheng-ji/ngx_lua_reqstatus)  
 [使用 Nginx + Lua (OpenResty) 开发高性能 Web 应用](http://jinnianshilongnian.iteye.com/blog/2280928)  
 [nginx location配置详细解释](http://outofmemory.cn/code-snippet/742/nginx-location-configuration-xiangxi-explain)  
+[OpenResty(ngx_lua)+Moochine 完整实例](https://github.com/appwilldev/moochine-demo)  
 
 <a name="MYSQL"></a>
 ## MYSQL  
