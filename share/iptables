@@ -33,5 +33,7 @@ iptables -P OUTPUT ACCEPT #默认的可以出去
 # （5）是更改永久生效可写入文件     /etc/sysconfig/iptables文件里了 并执行如下命令重启生效
 [root@tp ~]# service iptables restart
 
+# (6) centos 7 下需要单独安装
 
+<code> yum install iptables-services </code>
 # http://code.replays.net/201609/7243.html
