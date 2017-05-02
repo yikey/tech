@@ -14,6 +14,6 @@
 [百度echarts组件](http://echarts.baidu.com/)  
 [alipay G2组件](https://g2.alipay.com/)   
 ##工具
-[pdf阅读组件](https://pdfobject.com/)
-[baidu上传组件](http://fex.baidu.com/webuploader/)
+[pdf阅读组件](https://pdfobject.com/)   
+[baidu上传组件](http://fex.baidu.com/webuploader/)   
 
