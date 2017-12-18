@@ -89,4 +89,7 @@
 <a name="other"></a>
 ## other
 [IT杂谈](http://github.com/yikey/tech/other/t1.md)  
-[技术雷达趋势](https://www.thoughtworks.com/cn/radar)   
+[技术雷达趋势](https://www.thoughtworks.com/cn/radar)   
+<a name="程序设计"></a>
+## 系统设计
+[系统设计的万能解法：SNAKE原则](https://mp.weixin.qq.com/s/u8NDvKcYv4ztVVRT_HaUJw)  
